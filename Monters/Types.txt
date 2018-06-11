@@ -1,0 +1,9 @@
+Type | Super Effective | Resist
+Fire | Grass, Poison | Grass, Poison
+Water | Fire, Ground | Fire, Ground
+Grass | Water, Ground | Ground Water, Electric
+Flying | Grass | Ground, Grass
+Ground | Fire, Electric | Fire, Electric
+Electric | Water, Flying | Water, Flying
+Poison | Grass, Psychic | Grass, Psychic
+Psychic | | Psychic 
